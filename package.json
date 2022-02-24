@@ -1,0 +1,11 @@
+{
+	"name": "Mnemonics",
+	"version": "1.0.0",
+	"description": "Mnemonics",
+	"main": "app.js",
+	"license": "MIT",
+	"dependencies": {
+		"npm": "^6.5.0",
+		"bip39": "^3.0.4"
+	}
+}
