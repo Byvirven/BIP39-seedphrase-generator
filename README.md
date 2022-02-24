@@ -1,5 +1,5 @@
 # BIP39-seedphrase-generator
-BIP39 Seed phrase generator
+BIP39 Seed phrase generator based on a predeterminated list of words
 
 Simple NodeJS script
 
